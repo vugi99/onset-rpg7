@@ -4,7 +4,7 @@
 * Download the package
 * Extract it in your packages
 * Rename it
-* Install [Particles](https://github.com/vugi99/onset-particles) (You need to load the Particles package before the rpg7 package)
+* Install [Particles](https://github.com/vugi99/onset-particles) (You need to load the particles package before the rpg7 package)
 * Add this to your weapons.json
 ```
 		{
