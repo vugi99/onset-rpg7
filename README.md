@@ -24,3 +24,4 @@
 ```
 * Config the package in the config.lua file
 * Give the weapon 22 (by default) to a player
+* OPTIONAL : Increase the object stream distance to ~25000 in the server_config.json
